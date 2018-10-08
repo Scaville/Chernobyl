@@ -4,16 +4,22 @@
 
 ### Table of contents
 
-- <a href='/Constants/Actions.md'></a><br/>
-- <a href='/Cypher/AES.md'></a>
-- <a href='/Cypher/RSA.md'></a>
-- <a href='/Cypher/HASH.md'></a><br/>
-- <a href='/Database/BusinessModel.md'></a><br/>
-- <a href='/Exception/JsonException.md'></a><br/>
-- <a href='/Http/Controller.md'></a>
-- <a href='/Http/CrudController.md'></a><br/>
-- <a href='/Service/Service.md'></a>
-- <a href='/Service/ModelService.md'></a>
+- Constants
+  - <a href='/Constants/Actions.md'>Actions</a>
+- Cypher
+  - <a href='/Cypher/AES.md'>AES</a>
+  - <a href='/Cypher/RSA.md'>RSA</a>
+  - <a href='/Cypher/HASH.md'>HASH</a>
+- Database
+  - <a href='/Database/BusinessModel.md'>BusinessModel</a><br/>
+- Exceptions
+  - <a href='/Exception/JsonException.md'>JsonException</a><br/>
+- Http
+  - <a href='/Http/Controller.md'>Controller</a>
+  - <a href='/Http/CrudController.md'>CrudController</a><br/>
+- Service
+  - <a href='/Service/Service.md'>Service</a>
+  - <a href='/Service/ModelService.md'>ModelService</a>
 
 ---
 **Chernobyl™**<br/>
