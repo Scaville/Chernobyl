@@ -1,6 +1,6 @@
-> ### <span style='color:#000000'>Actions</span>
-> <span style='color:#FF0987'>**Interface**</span><br/>
-> <span style='font-size:14px'>Namespace:</span> <span style='color:#0079bc'>\Scaville\Chernobyl\Constants\Actions</SPAN>
+> ### Actions
+> **Interface**<br/>
+> Namespace: \Scaville\Chernobyl\Constants\Actions
 
 ## Constants
 

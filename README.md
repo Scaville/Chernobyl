@@ -1,4 +1,4 @@
-# ☠ <span style='font-size:16px'>Project</span> <br/>CHERNOBYL
+# ☠ Project<br/>CHERNOBYL
 
 > Project Chernobyl<br/>
 > Developer: Fabricio Paulo<br/>

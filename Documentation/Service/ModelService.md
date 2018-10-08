@@ -1,7 +1,7 @@
-> ### <span style='color:#000000'>ModelService</span>
-> <span style='color:#00bcaf'>**Abstrac Class**</span><br/>
-> <span style='font-size:14px'>Namespace:</span> <span style='color:#0079bc'>\Scaville\Chernobyl\Service\ModelService</span><br/>
-> <span style='font-size:14px'>Extends:</span> <span style='color:#0079bc'>\Scaville\Chernobyl\Service\Service</span><br/>
+> ### ModelService
+> **Abstrac Class**<br/>
+> Namespace: \Scaville\Chernobyl\Service\ModelService<br/>
+> Extends: \Scaville\Chernobyl\Service\Service<br/>
 
 ## Methods
 

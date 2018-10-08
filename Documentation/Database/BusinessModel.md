@@ -1,7 +1,7 @@
-> ### <span style='color:#000000'>BusinessModel</span>
-> <span style='color:#00bcaf'>**Abstract Class**</span><br/>
-> <span style='font-size:14px'>Namespace:</span> <span style='color:#0079bc'>\Scaville\Chernobyl\Database\BusinessModel</span><br/>
-> <span style='font-size:14px'>Extends:</span> <span style='color:#0079bc'>\Illuminate\Database\Eloquent\Model</span><br/>
+> ### BusinessModel
+> **Abstract Class**<br/>
+> Namespace: \Scaville\Chernobyl\Database\BusinessModel<br/>
+> Extends: \Illuminate\Database\Eloquent\Model<br/>
 
 ## Constants
 
