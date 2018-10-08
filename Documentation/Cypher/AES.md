@@ -1,6 +1,6 @@
 > ### AES
 > **Class**<br/>
-> >Namespace: \Scaville\Chernobyl\Cypher<br/>
+> Namespace: \Scaville\Chernobyl\Cypher<br/>
  
 ## Methods
 
