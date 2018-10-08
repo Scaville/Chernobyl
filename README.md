@@ -25,6 +25,12 @@ Using the git clone the project to your `vendor` path, after put the dependence 
 ]
 ~~~~
 
+After, run the script:
+
+~~~~
+php artisan vendor:publish
+~~~~
+
 ### Documentation
 <a href='/Documentation'>Access the documentation here</a>
 
