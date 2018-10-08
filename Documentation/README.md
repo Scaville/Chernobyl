@@ -5,21 +5,21 @@
 ### Table of contents
 
 - Constants
-  - <a href='/Constants/Actions.md'>Actions</a>
+  - <a href='/Documentation/Constants/Actions.md'>Actions</a>
 - Cypher
-  - <a href='/Cypher/AES.md'>AES</a>
-  - <a href='/Cypher/RSA.md'>RSA</a>
-  - <a href='/Cypher/HASH.md'>HASH</a>
+  - <a href='/Documentation/Cypher/AES.md'>AES</a>
+  - <a href='/Documentation/Cypher/RSA.md'>RSA</a>
+  - <a href='/Documentation/Cypher/HASH.md'>HASH</a>
 - Database
-  - <a href='/Database/BusinessModel.md'>BusinessModel</a><br/>
+  - <a href='/Documentation/Database/BusinessModel.md'>BusinessModel</a><br/>
 - Exceptions
-  - <a href='/Exception/JsonException.md'>JsonException</a><br/>
+  - <a href='/Documentation/Exception/JsonException.md'>JsonException</a><br/>
 - Http
-  - <a href='/Http/Controller.md'>Controller</a>
-  - <a href='/Http/CrudController.md'>CrudController</a><br/>
+  - <a href='/Documentation/Http/Controller.md'>Controller</a>
+  - <a href='/Documentation/Http/CrudController.md'>CrudController</a><br/>
 - Service
-  - <a href='/Service/Service.md'>Service</a>
-  - <a href='/Service/ModelService.md'>ModelService</a>
+  - <a href='/Documentation/Service/Service.md'>Service</a>
+  - <a href='/Documentation/Service/ModelService.md'>ModelService</a>
 
 ---
 **Chernobyl™**<br/>
